@@ -1,0 +1,1 @@
+server mape iznemts node_modules, aiznem par daudz vietas
